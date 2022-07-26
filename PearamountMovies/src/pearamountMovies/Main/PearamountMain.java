@@ -2,8 +2,7 @@ package pearamountMovies.Main;
 
 import javax.swing.JOptionPane;
 import pearamountMovies.View.*;
-import pearamountMovies.Model.*;
-import pearamountMovies.Controller.*;
+
 
 
 //***********************************************************************************************************

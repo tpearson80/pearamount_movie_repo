@@ -18,6 +18,10 @@ public class PearamountUser implements Serializable{
 
 	//class variables
 	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	//user last name
 	private String lastName = "";
 	//user first name
